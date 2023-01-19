@@ -1,6 +1,6 @@
 {
   "name": "magento-api-rest-next",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A NodeJS wrapper to work with Magento REST APIs.",
   "main": "index",
   "types": "index.d.ts",

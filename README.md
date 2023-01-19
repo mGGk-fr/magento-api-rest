@@ -22,7 +22,7 @@ Check out the Magento API endpoints and data that can be manipulated in [these d
 
 #### ECMAScript Module Example
 ```js
-import Magento from "magento-api-rest";
+import Magento from "magento-api-rest-next";
 
 const client = new Magento({
     'url': 'https://magento.dev',
@@ -35,7 +35,7 @@ const client = new Magento({
 
 #### CommonJS Module Example
 ```js
-const Magento = require('magento-api-rest').default;
+const Magento = require('magento-api-rest-next').default;
 
 const client = new Magento({
     'url': 'https://magento.dev',
