@@ -1,6 +1,6 @@
 {
-  "name": "magento-api-rest",
-  "version": "2.0.4",
+  "name": "magento-api-rest-next",
+  "version": "2.1.1",
   "description": "A NodeJS wrapper to work with Magento REST APIs.",
   "main": "index",
   "types": "index.d.ts",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaditya/magento-api-rest.git"
+    "url": "git+https://github.com/mGGk-fr/magento-api-rest.git"
   },
   "keywords": [
     "Magento",
@@ -32,12 +32,12 @@
     "Javascript",
     "JSON"
   ],
-  "author": "Aaditya Chakravarty",
+  "author": "Guillaume Arino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aaditya/magento-api-rest/issues"
+    "url": "https://github.com/mGGk-fr/magento-api-rest/issues"
   },
-  "homepage": "https://github.com/aaditya/magento-api-rest#readme",
+  "homepage": "https://github.com/mGGk-fr/magento-api-rest#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "oauth-1.0a": "^2.2.6"
